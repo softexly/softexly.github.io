@@ -1,2 +1,3 @@
-# softexly.github.io
-The company website
+# [Softexly.com](https://Softexly.com)
+
+The company website.
